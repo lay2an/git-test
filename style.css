@@ -1,7 +1,16 @@
-*{
+h1{
     color: red;
-    background-color: white;
+    background-color: #ccc;
+}
 
-        color: red;
-    background-color: white;
+p{
+    color: blue;
+    font-size: 35px;
+}
+
+div{
+    width: 400px;
+    height: 400px;
+    background-color: aqua;
+    color: white;
 }
